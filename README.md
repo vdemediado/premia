@@ -1,6 +1,7 @@
 # Voto retrospectivo en América Latina. ¿Por qué se premia el mal desempeño?
 ## Rodrigo Salazar Elena
 ## Flacso - México
+## Dirigir comentarios a rosencrantz@flacso.edu.mx
 
 ## Variables en archivo de datos "alrawdata.csv"
 
@@ -18,5 +19,5 @@
 
 "inmediata"             Se permite reelección presidencial consecutiva = 1
 
-## Scriot "votores.R"
+## Script "votores.R"
 Código para los modelos mencionados en las notas al pie 8, 9 y 10.
